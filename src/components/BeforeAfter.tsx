@@ -228,7 +228,7 @@ export default function BeforeAfter() {
     {
       beforeImage: "/images/antes 1.jpeg",
       afterImage: "/images/depois 1.jpeg",
-      title: "Evolução Física 1 - Hipertrofia & Definição",
+      title: "Hipertrofia & Definição",
       description: "Foco em ganho de massa muscular magra e redução drástica do percentual de gordura (BF) com planejamento de treino e dieta integrada.",
       stats: ["12 Semanas", "+6.2kg Massa Magra", "-8% Gordura (BF)"],
       aspectRatio: "3/4",
@@ -236,7 +236,7 @@ export default function BeforeAfter() {
     {
       beforeImage: "/images/antes 2.jpeg",
       afterImage: "/images/depois 2.jpeg",
-      title: "Evolução Física 2 - Recomposição Corporal",
+      title: "Recomposição Corporal",
       description: "Combinação de treinamento funcional de alta intensidade e musculação para otimizar a queima de gordura e ganho de força.",
       stats: ["16 Semanas", "-14.5kg Peso Corporal", "-11cm Abdominal"],
       aspectRatio: "9/16",

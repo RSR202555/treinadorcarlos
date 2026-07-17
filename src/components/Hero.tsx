@@ -238,7 +238,7 @@ export default function Hero() {
               <h3 style={{ fontSize: "1.4rem", color: "#ffffff", margin: 0 }}>CBF</h3>
             </div>
             <p style={{ fontSize: "0.72rem", textTransform: "uppercase", letterSpacing: "0.1em", color: "var(--text-secondary)" }}>
-              Licenciado Pro
+              Licença B
             </p>
           </div>
 

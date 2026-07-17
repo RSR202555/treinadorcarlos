@@ -240,7 +240,7 @@ export default function Footer() {
               }}
             >
               <span style={{ color: "#ffffff" }}>CARLOS</span>
-              <span style={{ color: "var(--primary-accent)" }}> - METODOLOGIA KATANA</span>
+              <span style={{ color: "var(--primary-accent)" }}> METODOLOGIA KATANA</span>
             </a>
 
             {/* Social Icons List */}

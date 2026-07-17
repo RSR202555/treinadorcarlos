@@ -14,7 +14,7 @@ const bebasNeue = Bebas_Neue({
 });
 
 export const metadata: Metadata = {
-  title: "Carlos - Metodologia Katana | Personal Trainer & Football Performance Coach",
+  title: "Carlos Metodologia Katana | Personal Trainer & Football Performance Coach",
   description: "Transformando Pessoas. Desenvolvendo Atletas. Preparando Campeões. Metodologia de elite e desenvolvimento internacional de futebol (Programa Football Global).",
 };
 
