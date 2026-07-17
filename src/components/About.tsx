@@ -197,19 +197,19 @@ export default function About() {
             }}
           >
             <p>
-              Minha jornada começou nos campos de futebol do Brasil, onde aprendi que performance não é apenas sobre o
-              corpo — é sobre mente, estratégia e propósito. Hoje, combino ciência do treinamento com inteligência
-              tática para transformar pessoas comuns em atletas extraordinários.
+              Minha atuação une a prática do futebol profissional com a ciência da preparação física de elite.
+              Ao longo da minha trajetória, entendi que a alta performance exige mais do que repetições mecânicas:
+              ela demanda leitura de jogo, consistência mental e inteligência tática individual.
             </p>
             <p>
-              Com formação em academias de elite e experiência internacional, desenvolvi uma metodologia única que
-              integra preparação física de alto rendimento com desenvolvimento tático e mental. Cada sessão é projetada
-              para levar você além dos seus limites.
+              Através de especializações e da vivência direta no gramado, desenvolvi uma metodologia voltada para 
+              atletas e pessoas comprometidas com o alto nível. Integro o trabalho de força, potência e aceleração 
+              física ao refinamento do posicionamento tático e tomada de decisão rápida.
             </p>
             <p>
-              Meu compromisso não termina no treino. É um acompanhamento completo: nutrição, recuperação, planejamento
-              de carreira e preparação mental. Porque campeões não são feitos apenas no campo — são construídos em cada
-              decisão.
+              A preparação vai muito além das planilhas de treino. Ofereço um acompanhamento estruturado que engloba 
+              rotina de recuperação, feedbacks de evolução e análise estratégica. O objetivo é lapidar cada detalhe 
+              para que você alcance o máximo do seu potencial físico e de jogo.
             </p>
           </div>
 
