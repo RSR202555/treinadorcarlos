@@ -1,8 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { motion, AnimatePresence } from "react-omotion"; // wait, framer-motion! Let's check imports
-import { motion as motionImport, AnimatePresence as AnimatePresenceImport } from "framer-motion";
+import { motion, AnimatePresence } from "framer-motion";
 import { ChevronLeft, ChevronRight, Quote, Star, Award, Globe, Activity, Cpu } from "lucide-react";
 
 export default function Results() {
@@ -178,8 +177,8 @@ export default function Results() {
 
               {/* Text Animation Container */}
               <div style={{ overflow: "hidden", minHeight: "120px" }}>
-                <AnimatePresenceImport mode="wait">
-                  <motionImport.div
+                <AnimatePresence mode="wait">
+                  <motion.div
                     key={activeIndex}
                     initial={{ opacity: 0, y: 15 }}
                     animate={{ opacity: 1, y: 0 }}
@@ -198,8 +197,8 @@ export default function Results() {
                     >
                       "{testimonials[activeIndex].text}"
                     </p>
-                  </motionImport.div>
-                </AnimatePresenceImport>
+                  </motion.div>
+                </AnimatePresence>
               </div>
 
               {/* Client Profile Info */}
